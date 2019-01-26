@@ -1,4 +1,4 @@
 server:
   port: 8080
 
-content.version: 1.0
+content.version: 1.0.0
